@@ -1,3 +1,3 @@
-1 + 1
+sum = 1 + 1
 
-1 + "is the loneliest number"
+sum.to_s + "is the loneliest number"
